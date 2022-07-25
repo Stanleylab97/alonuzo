@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611883728866",
+    "project_id": "alernis-1ff08",
+    "storage_bucket": "alernis-1ff08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611883728866:android:78aa30084e2459cd1003bb",
+        "android_client_info": {
+          "package_name": "com.stanleylab97.alonuzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611883728866-e2facm35im4c1ck20ih8m26cn5igple5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stanleylab97.alonuzo",
+            "certificate_hash": "e772661aba465c148eb431e6e67930e109924108"
+          }
+        },
+        {
+          "client_id": "611883728866-1vqjj238ufftcsbkdaqpvms5pcuptjau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6EgCBuZPWwwZHXg02htBLS5KyJgocPkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611883728866-1vqjj238ufftcsbkdaqpvms5pcuptjau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
