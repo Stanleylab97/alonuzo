@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "appId": "1:611883728866:android:78aa30084e2459cd1003bb",
+        "mobilesdk_app_id": "1:611883728866:android:78aa30084e2459cd1003bb",
         "android_client_info": {
           "package_name": "com.stanleylab97.alonuzo"
         }
