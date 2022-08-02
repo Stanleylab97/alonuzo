@@ -33,7 +33,6 @@ dependencies:
   google_fonts: ^3.0.1
   substring_highlight: ^1.0.33
   lottie: ^1.2.2
-  shared_preferences: ^2.0.15
   sliding_up_panel2: ^3.2.2
   searchfield: ^0.6.6
   
@@ -58,12 +57,15 @@ flutter_icons:
 
 flutter_native_splash:
   color: "#fe9c21"
-  #image: assets/logo/alonuzo.png  
+  image: assets/logo/alonuzo.png  
+  android: true
+  web: false
+  ios: true
   android_12:
     image: assets/logo/alonuzo.png
     color: "#fe9c21"
-    web: false
-    ios: true
+    icon_background_color: "#111111"
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -80,6 +82,7 @@ flutter:
   assets:
      - assets/logo/alonuzo.png
      - assets/images/
+     - assets/images/splash/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
