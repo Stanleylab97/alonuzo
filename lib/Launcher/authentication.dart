@@ -185,7 +185,7 @@ class _TabBarPageState extends State<AuthentificationPreestataire>
                                           .primaryColor
                                           .withOpacity(0.1),
                                       filled: true,
-                                      prefixIcon: Icon(Icons.email_outlined),
+                                      prefixIcon: Icon(Icons.place),
                                       border: OutlineInputBorder(
                                           borderRadius: BorderRadius.circular(18),
                                           borderSide: BorderSide.none),
